@@ -1,19 +1,19 @@
 {
-  "name": "My Awesome Token",
-  "symbol": "MAT",
-  "description": "A cool token with a logo, Twitter, and website",
-  "image": "https://example.com/logo.png",
+  "name": "Health Token",
+  "symbol": "HT",
+  "description": "healthy is everything",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMPEeiQUyVKediMEhMK-QlyGbWAz9etSgx074rq8PCay60fc-Tv_k_c6uwzgCwyvYo10FOd6pCPgySgs0St-uqHh7V70W6CxYdH1GHV_9fLKKlAZkHmEI5Z05mECLeFUmgqSp6qMw-g9Vc06l2wmGP8T837fWmppmQojpm7SQ42NLdg5SrR9ivk0mXvSrg/s1200/logo.png",
   "external_url": "https://myawesometoken.com",
   "attributes": [
     {
       "trait_type": "Twitter",
-      "value": "https://x.com/YourTwitterHandle"
+      "value": "https://x.com/SenBooker"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/logo.png",
+        "uri": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMPEeiQUyVKediMEhMK-QlyGbWAz9etSgx074rq8PCay60fc-Tv_k_c6uwzgCwyvYo10FOd6pCPgySgs0St-uqHh7V70W6CxYdH1GHV_9fLKKlAZkHmEI5Z05mECLeFUmgqSp6qMw-g9Vc06l2wmGP8T837fWmppmQojpm7SQ42NLdg5SrR9ivk0mXvSrg/s1200/logo.png",
         "type": "image/png"
       }
     ],
