@@ -1,0 +1,23 @@
+{
+  "name": "My Awesome Token",
+  "symbol": "MAT",
+  "description": "A cool token with a logo, Twitter, and website",
+  "image": "https://example.com/logo.png",
+  "external_url": "https://myawesometoken.com",
+  "attributes": [
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/YourTwitterHandle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token",
+    "creators": []
+  }
+}
