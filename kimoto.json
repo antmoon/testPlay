@@ -1,0 +1,23 @@
+{
+  "name": "KIMONO",
+  "symbol": "KIMONO",
+  "description": "Kimono is an innovative digital asset that blends tradition with modernity, inspired by the elegance and sophistication of Japanese culture",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZu1v3Q5aX1AEAJsVy-Gs6X9Fe4QjFhf2IDMzlB21IdZqap8uc1gbV4xzeDuelbT-t8L1JZAK5n66-Y8JE7do1ryc2DY8CtJxGtzVaXu6dTC8icnoGg8Ta8OPtySxTzC0VPg5agJClYfYtL40CO_nmPmuu6d8Xh8efHZrYXMJ58tRhnjYj6AXMkRHK5fJI/s200/unnamed.png",
+  "external_url": "https://en.wikipedia.org/wiki/Kimono",
+  "attributes": [
+    {
+      "trait_type": "X",
+      "value": "https://x.com/kimono"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZu1v3Q5aX1AEAJsVy-Gs6X9Fe4QjFhf2IDMzlB21IdZqap8uc1gbV4xzeDuelbT-t8L1JZAK5n66-Y8JE7do1ryc2DY8CtJxGtzVaXu6dTC8icnoGg8Ta8OPtySxTzC0VPg5agJClYfYtL40CO_nmPmuu6d8Xh8efHZrYXMJ58tRhnjYj6AXMkRHK5fJI/s200/unnamed.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token",
+    "creators": ""
+  }
+}
